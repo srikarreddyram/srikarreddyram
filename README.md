@@ -14,6 +14,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srikarreddyram)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/srikar_reddy_/)
 [![AlgoExpert](https://img.shields.io/badge/AlgoExpert-00C853?style=for-the-badge&logo=checkmarx&logoColor=white)](https://www.algoexpert.io)
+
+<br><br>
+
 [![Gmail](https://img.shields.io/badge/srikarreddy.ram%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srikarreddy.ram@gmail.com)
 [![SRMIST Mail](https://img.shields.io/badge/srikarreddy.ram08%40gmail.com-D93025?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srikarreddy.ram08@gmail.com)
 
