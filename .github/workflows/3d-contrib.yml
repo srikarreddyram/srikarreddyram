@@ -1,0 +1,34 @@
+name: Generate 3D Contribution Globe
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D Contribution Graph
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: srikarreddyram
+        with:
+          settings_json: |
+            {
+              "githubUserName": "srikarreddyram",
+              "fileName": "profile-night-green.svg",
+              "backgroundColor": "#0d1117",
+              "foregroundColor": "#003300",
+              "dataColor1": "#00ff41",
+              "dataColor2": "#39d353"
+            }
+      - name: Commit & Push
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add -A .
+          git commit -m "Update 3D contribution graph" || exit 0
+          git push
