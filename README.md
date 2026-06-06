@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Ramachandra%20TejSrikar%20Reddy&fontSize=38&color=0:0d1117,100:003300&fontColor=00ff41&animation=fadeIn&fontAlignY=55&desc=AI%20%2F%20ML%20Engineer%20%7C%20Software%20Development%20%7C%20Applied%20Machine%20Learning&descAlignY=75&descSize=14&stroke=00ff41&strokeWidth=1)](https://github.com/srikarreddyram)
+[![Header](https://capsule-render.vercel.app/api?type=waving&height=220&text=RAMACHANDRA%20TEJSRIKAR%20REDDY&fontSize=32&color=0:000000,50:1a1a2e,100:000000&fontColor=FFE81F&animation=fadeIn&fontAlignY=45&desc=AI%20%2F%20ML%20Engineer%20·%20Software%20Development%20·%20Applied%20Machine%20Learning&descAlignY=68&descSize=13&stroke=FFE81F&strokeWidth=1)](https://github.com/srikarreddyram)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1800&pause=400&color=00FF41&center=true&vCenter=true&repeat=true&width=700&lines=Initializing+srikarreddyram.exe+...;The+Matrix+has+you...;Follow+the+white+rabbit+🐇;Research+Intern+%40+NCPOR%2C+Goa;B.Tech+Computer+Engineering+%7C+SRMIST+%2727;CGPA%3A+8.74+%7C+AWS+Certified+%7C+AlgoExpert+DSA;Published+%40+IEEE+Xplore+%26+Springer+Nature;Presented+%40+WOSC+2026%2C+NIO+Goa;Open+to+internships+—+ML+·+SDE+·+Research)](https://github.com/srikarreddyram)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=13&duration=1800&pause=500&color=FFE81F&center=true&vCenter=true&repeat=true&width=720&lines=A+long+time+ago+in+a+galaxy+far%2C+far+away...;Booting+srikarreddyram.exe+...;Research+Intern+%40+NCPOR%2C+Goa+🌊;B.Tech+Computer+Engineering+%7C+SRMIST+%2727+%7C+CGPA%3A+8.74;AWS+Certified+%7C+Oracle+Cloud+AI+Pro+%7C+AlgoExpert+DSA;Presented+%40+World+Ocean+Science+Congress+2026;Published+in+IEEE+Xplore+%26+Springer+Nature;May+the+Force+be+with+your+code+⚔️)](https://github.com/srikarreddyram)
 
 </div>
 
@@ -10,56 +10,71 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srikarreddyram/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srikarreddyram)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/srikar_reddy_/)
-[![AlgoExpert](https://img.shields.io/badge/AlgoExpert-00C853?style=for-the-badge&logo=checkmarx&logoColor=white)](https://www.algoexpert.io)
-<br><br>
-[![Gmail](https://img.shields.io/badge/srikarreddy.ram%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srikarreddy.ram@gmail.com)
-[![SRMIST Mail](https://img.shields.io/badge/srikarreddy.ram08%40gmail.com-D93025?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srikarreddy.ram08@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=11&pause=99999&color=888888&center=true&vCenter=true&width=600&lines=A+LONG+TIME+AGO+IN+A+GALAXY+FAR%2C+FAR+AWAY...." alt="crawl intro" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=srikarreddyram&color=00ff41&style=flat-square&label=Profile+Views)](https://github.com/srikarreddyram)
-[![GitHub followers](https://img.shields.io/github/followers/srikarreddyram?style=flat-square&color=00ff41&label=Followers)](https://github.com/srikarreddyram)
+```
+         . * .        .     *         .       *     .
+    .  *       .   .       .    *   .    .        .
+       .    .    *    .  *   .          .    *      .
+   *      .   .     .    .       *   .       .   .
+      .      *    .    .    .  .   *    .  .        *
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srikarreddyram/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFE81F)](https://github.com/srikarreddyram)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/srikar_reddy_/)
+[![AlgoExpert](https://img.shields.io/badge/AlgoExpert-FFE81F?style=for-the-badge&logo=checkmarx&logoColor=black)](https://www.algoexpert.io)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srikarreddy.ram@gmail.com)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=srikarreddyram&color=FFE81F&style=flat-square&label=Jedi+Council+Visits)](https://github.com/srikarreddyram)
+[![GitHub followers](https://img.shields.io/github/followers/srikarreddyram?style=flat-square&color=FFE81F&label=Padawans+Following)](https://github.com/srikarreddyram)
 
 </div>
 
 ---
 
-## ◈ About
+## 🔦 The Holocron — `whoami`
+
+<img align="right" width="180" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="Obi-Wan" title="Hello there!"/>
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│  srikar@srmist ~ $ whoami                                           │
-├─────────────────────────────────────────────────────────────────────┤
-│  name      →  Ramachandra TejSrikar Reddy                           │
-│  role      →  AI/ML Engineer · Software Development                 │
-│  degree    →  B.Tech Computer Engineering, SRMIST '27               │
-│  cgpa      →  8.74 / 10                                             │
-│  base      →  Chennai, India                                        │
-│  stack     →  ML · Data Science · Cloud · DSA · Research            │
-│  research  →  NCPOR, Goa — Oceanographic & Climate Modeling         │
-│  status    →  open to internships ✦                                 │
-└─────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════╗
+║  ░▒▓ JEDI ORDER — PERSONNEL FILE ▓▒░                                ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  designation   →  Ramachandra TejSrikar Reddy                       ║
+║  rank          →  Jedi Knight (in training)                         ║
+║  order         →  AI/ML Engineer · Software Development             ║
+║  academy       →  SRMIST Chennai — B.Tech Comp. Eng. '27            ║
+║  midi-chlorians→  8.74 / 10  (CGPA)                                 ║
+║  homeworld     →  Chennai, India                                     ║
+║  active mission→  NCPOR, Goa — Oceanographic & Climate Research     ║
+║  speciality    →  ML · Data Science · Cloud · DSA · Research        ║
+║  allegiance    →  Light Side  ✦  Open to internships                ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-2nd year CS undergrad at SRMIST, Chennai — currently a **Research Intern at NCPOR, Goa** working on oceanographic and climate datasets. I build ML pipelines, data engineering systems, and applied research projects that solve real-world problems.
+> *"Hello there."* — **Obi-Wan Kenobi** *(also me, opening every standup)*
 
-I've presented research at the **World Ocean Science Congress (WOSC 2026)**, published in **IEEE Xplore** and **Springer Nature**, and hold **3 AWS certifications** alongside an Oracle Cloud AI Professional credential.
+I build ML pipelines, data engineering systems, and applied research that solves real-world problems. Currently deployed as a **Research Intern at NCPOR, Goa** working on oceanographic and climate datasets.
 
-**Open to:** ML · SDE · Data Science · Research · Cloud — any domain, any stack.
+Presented at **WOSC 2026 (NIO Goa)**, published in **IEEE Xplore** and **Springer Nature**, and hold **3 AWS certifications** + Oracle Cloud AI Professional credentials.
+
+**The Force is strong with:** ML · SDE · Data Science · Research · Cloud
 
 ---
 
-## ◈ Tech Stack
+## 🌌 The Jedi Arsenal — Tech Stack
 
-**Languages**
+> *"Your lightsaber is your life."* — Obi-Wan Kenobi
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+**⚡ Languages of the Force**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFE81F)](https://python.org)
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://java.com)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://mysql.com)
 
-**Machine Learning & Data Science**
+**🤖 The Force Powers — Machine Learning**
 
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
 [![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=python&logoColor=white)](https://xgboost.ai)
@@ -68,16 +83,16 @@ I've presented research at the **World Ocean Science Congress (WOSC 2026)**, pub
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)](https://matplotlib.org)
 [![Bi-LSTM](https://img.shields.io/badge/Bi--LSTM-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](#)
 
-**Cloud & DevOps**
+**☁️ Galactic Cloud Command — Death Star Infrastructure**
 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com)
 [![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)](https://aws.amazon.com/ec2)
 [![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)](https://aws.amazon.com/s3)
-[![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)](https://www.oracle.com/cloud/)
+[![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)](https://oracle.com/cloud)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-0052CC?style=flat-square&logo=githubactions&logoColor=white)](#)
 
-**DSA & Core CS**
+**🗡️ Lightsaber Combat — DSA & Core CS**
 
 [![Data Structures](https://img.shields.io/badge/Data_Structures-00599C?style=flat-square&logo=cplusplus&logoColor=white)](#)
 [![Algorithms](https://img.shields.io/badge/Algorithms-FFA116?style=flat-square&logo=leetcode&logoColor=black)](#)
@@ -85,112 +100,123 @@ I've presented research at the **World Ocean Science Congress (WOSC 2026)**, pub
 [![Statistics](https://img.shields.io/badge/Statistics-8CAAE6?style=flat-square&logo=python&logoColor=white)](#)
 [![Probability](https://img.shields.io/badge/Probability-5C2D91?style=flat-square&logo=python&logoColor=white)](#)
 
-**Tools & Platforms**
+**🔧 Tools of the Rebel Alliance**
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=FFE81F)](https://github.com)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://figma.com)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://sqlite.org)
-[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)](https://sqlalchemy.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org)
 
 ---
 
-## ◈ Projects
+## 🚀 Mission Logs — Projects
 
-| **🌊 BlueEco — Ocean Warming Ecological Impact Modeling**<br>Bi-LSTM and XGBoost ensemble on multi-source satellite and oceanographic data for time-series forecasting and ecological stress estimation. Scalable data pipeline with RMSE/MAE validation for climate-driven predictive modeling. Presented at **WOSC 2026, NIO Goa**.<br>`Python` `Bi-LSTM` `XGBoost` `Scikit-learn` `Pandas` | **🏀 NBA Shot Quality Engine**<br>Scalable data engineering + ML pipeline processing **15 seasons (~3M+ shots)** of NBA shot chart data. Engineered 30+ spatial, temporal, and player-specific features. Gradient-boosted models predict shot success probability and expected points analytics.<br>`Python` `SQLAlchemy` `SQLite` `XGBoost` `Feature Engineering` |
+<img align="right" width="160" src="https://media.giphy.com/media/3ohuAxV0DfcLTxvqly/giphy.gif" alt="Darth Vader" title="Impressive. Most impressive."/>
+
+| **🌊 BlueEco — Ocean Warming Impact Modeling**<br><br>Bi-LSTM and XGBoost ensemble on multi-source satellite & oceanographic data for time-series forecasting and ecological stress estimation. Scalable data pipeline with RMSE/MAE validation.<br><br>*Presented at **WOSC 2026, NIO Goa***<br><br>`Python` `Bi-LSTM` `XGBoost` `Scikit-learn` `Pandas` | **🏀 NBA Shot Quality Engine**<br><br>Scalable data engineering + ML pipeline over **15 seasons (~3M+ shots)** of NBA shot chart data. 30+ engineered spatial, temporal, and player-specific features. Gradient-boosted models for shot success probability and expected points analytics.<br><br>`Python` `SQLAlchemy` `SQLite` `XGBoost` |
 |---|---|
-| **⚽ TactiFit — Football Scouting & Analytics**<br>ML models for player ranking and performance prediction using engineered performance metrics. Regression and classification techniques for data-driven scouting decisions.<br>`Python` `Regression` `Classification` `Scikit-learn` | **🚀 Canary-Based CI/CD Pipeline**<br>CI/CD pipeline with adaptive canary deployment strategy for safe, gradual feature rollouts. Automated build, test, and deploy workflows ensuring minimal downtime and full rollback capability.<br>`Docker` `CI/CD` `Python` `DevOps` |
+| **⚽ TactiFit — Football Scouting & Analytics**<br><br>ML models for player ranking and performance prediction using engineered performance metrics. Regression and classification for data-driven scouting decisions.<br><br>`Python` `Regression` `Classification` `Scikit-learn` | **🛸 Canary-Based CI/CD Pipeline**<br><br>CI/CD pipeline with adaptive canary deployment for safe, gradual feature rollouts. Automated build, test, and deploy workflows with full rollback capability and minimal downtime.<br><br>`Docker` `CI/CD` `Python` `DevOps` |
+
+> *"Impressive. Most impressive."* — **Darth Vader** *(reviewing the project table)*
 
 ---
 
-## ◈ Research & Publications
+## 📜 Jedi Archives — Research & Publications
 
 ```
-[ PUBLISHED RESEARCH ]
+ ░▒▓█  CLASSIFIED RESEARCH TRANSMISSIONS — JEDI ORDER  █▓▒░
 
-  📄  BlueEco: Ocean Warming Ecological Impact Modeling
-      → Presented at World Ocean Science Congress (WOSC 2026), NIO Goa
+  📡  BlueEco: Ocean Warming Ecological Impact Modeling
+      ↳ Presented at World Ocean Science Congress (WOSC 2026), NIO Goa
 
-  📄  ML-Based Item Recommendation for Flipkart Using SVD
-      → Published in IEEE Xplore (NF-CAMS 2025)
+  📡  ML-Based Item Recommendation for Flipkart Using SVD
+      ↳ Published in IEEE Xplore (NF-CAMS 2025)
 
-  📄  Optimizing Network Performance in LTE using Fuzzy Logic & MFO
-      → Accepted in Soft Computing (Springer Nature)
-```
-
----
-
-## ◈ Certifications
-
-| # | Certification | Issuer | Year |
-|---|---|---|---|
-| 01 | ☁️ AWS Certified Solutions Architect – Associate | Amazon Web Services | 2026 |
-| 02 | ☁️ AWS Certified Cloud Practitioner | Amazon Web Services | 2026 |
-| 03 | 🤖 Oracle Cloud Infrastructure Generative AI Professional | Oracle | 2026 |
-| 04 | 🧠 Data Structures and Algorithms | AlgoExpert | 2026 |
-| 05 | 🏢 Oracle Fusion Cloud ERP Foundations Associate | Oracle | 2025 |
-
----
-
-## ◈ Experience
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  Research Intern — NCPOR (National Centre for Polar and Ocean       │
-│  Research), Goa                          Apr 2025 – Present         │
-├─────────────────────────────────────────────────────────────────────┤
-│  Working on oceanographic and climate datasets for environmental     │
-│  modeling and analysis                                              │
-└─────────────────────────────────────────────────────────────────────┘
+  📡  Optimizing Network Performance in LTE using Fuzzy Logic & MFO
+      ↳ Accepted in Soft Computing (Springer Nature)
 ```
 
 ---
 
-## ◈ LeetCode Stats
+## 🏅 Order of Merit — Certifications
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/srikar_reddy_?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&background=0d1117)](https://leetcode.com/u/srikar_reddy_/)
+<img align="left" width="90" src="https://media.giphy.com/media/l4FGni1RBAR2OWsGk/giphy.gif" alt="Yoda" title="Certified, you are."/>
+
+| ⭐ | Credential | Issuer | Year |
+|:---:|---|---|:---:|
+| 🔴 | AWS Certified Solutions Architect – Associate | Amazon Web Services | 2026 |
+| 🔵 | AWS Certified Cloud Practitioner | Amazon Web Services | 2026 |
+| 🟣 | Oracle Cloud Infrastructure Generative AI Professional | Oracle | 2026 |
+| 🟡 | Data Structures and Algorithms | AlgoExpert | 2026 |
+| ⚪ | Oracle Fusion Cloud ERP Foundations Associate | Oracle | 2025 |
+
+<br>
+
+> *"Certified, you are. Proud, the Council is."* — **Yoda**
 
 ---
 
-## ◈ PAC-MAN eats my contributions
+## 🪐 Field Deployment — Experience
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  ⚡ ACTIVE DEPLOYMENT ORDER                                          ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  Role     →  Research Intern                                         ║
+║  Station  →  NCPOR (National Centre for Polar & Ocean Research), Goa ║
+║  Period   →  Apr 2025 – Present                                      ║
+║  Mission  →  Oceanographic & climate datasets for environmental      ║
+║             modeling and analysis                                    ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## ⚔️ LeetCode — Duel Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/srikar_reddy_?theme=dark&font=Orbitron&ext=heatmap&border=0&background=0d1117)](https://leetcode.com/u/srikar_reddy_/)
+
+---
+
+## 👾 PAC-MAN devours my contributions
 
 [![Pac-Man contribution graph](https://raw.githubusercontent.com/srikarreddyram/srikarreddyram/output/pacman-dark.svg)](https://github.com/srikarreddyram)
 
 ---
 
-## ◈ GitHub Stats
+## 📊 Galactic Intelligence — GitHub Stats
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats-three-nu-85.vercel.app/api?username=srikarreddyram&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&bg_color=0d1117)](https://github.com/srikarreddyram)
-[![Top Languages](https://github-readme-stats-three-nu-85.vercel.app/api/top-langs/?username=srikarreddyram&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8&title_color=00ff41&text_color=c9d1d9&bg_color=0d1117)](https://github.com/srikarreddyram)
+[![GitHub Stats](https://github-readme-stats-three-nu-85.vercel.app/api?username=srikarreddyram&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&title_color=FFE81F&icon_color=FFE81F&text_color=c9d1d9&bg_color=0d1117)](https://github.com/srikarreddyram)
+[![Top Languages](https://github-readme-stats-three-nu-85.vercel.app/api/top-langs/?username=srikarreddyram&layout=compact&theme=dark&hide_border=true&langs_count=8&title_color=FFE81F&text_color=c9d1d9&bg_color=0d1117)](https://github.com/srikarreddyram)
 
-[![Streak Stats](https://streak-stats.demolab.com?user=srikarreddyram&theme=matrix&hide_border=true&fire=00ff41&ring=00ff41&currStreakLabel=00ff41)](https://github.com/srikarreddyram)
+[![Streak Stats](https://streak-stats.demolab.com?user=srikarreddyram&theme=dark&hide_border=true&fire=FFE81F&ring=FFE81F&currStreakLabel=FFE81F&background=0d1117&stroke=FFE81F)](https://github.com/srikarreddyram)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=srikarreddyram&bg_color=0d1117&color=00ff41&line=00ff41&point=39d353&area=true&hide_border=true&area_color=003300)](https://github.com/srikarreddyram)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=srikarreddyram&bg_color=0d1117&color=FFE81F&line=FFE81F&point=ffffff&area=true&hide_border=true&area_color=1a1a2e)](https://github.com/srikarreddyram)
 
 </div>
 
 ---
 
-## ◈ 3D Contribution Globe
+## 🌍 3D Contribution Star Map
 
 [![3D contribution graph](https://raw.githubusercontent.com/srikarreddyram/srikarreddyram/main/profile-3d-contrib/profile-night-green.svg)](https://github.com/srikarreddyram)
 
 ---
 
-## ◈ GitHub Trophies
+## 🏆 Hall of the Force — Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=srikarreddyram&theme=onestar&no-frame=true&column=4&margin-w=8)](https://github.com/srikarreddyram)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=srikarreddyram&theme=darkhub&no-frame=true&column=4&margin-w=8)](https://github.com/srikarreddyram)
 
 ---
 
-## ◈ Currently Learning
+## 🌠 Jedi Training — Currently Learning
 
 ```
-[ ACTIVE DOWNLOADS ]
+ ░▒▓█  HOLOCRON DOWNLOAD PROGRESS  █▓▒░
 
   Large Language Models & RAG          ████████░░  78%
   MLOps · Docker · CI/CD               ███████░░░  68%
@@ -206,22 +232,26 @@ I've presented research at the **World Ocean Science Congress (WOSC 2026)**, pub
 
 ---
 
-## ◈ Quote
+## 💬 Transmission from the Council
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/srikarreddyram)
 
 ---
 
+<div align="center">
+
 ```
-01110011 01110010 01101001 01101011 01100001 01110010 01110010 01100101 01100100 01100100 01111001 01110010 01100001 01101101
+01010011 01010010 01001001 01001011 01000001 01010010
 ```
+
+<img src="https://media.giphy.com/media/6fScAIQR0P0xW/giphy.gif" width="120" alt="lightsaber" />
+
+*"In a galaxy of code, be the Force."*
 
 `[ open to internships — ML · SDE · Data Science · Research · Cloud ]`
 
----
+**May the Force be with your pull requests.** ⚔️
 
-<div align="center">
-
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:001a00,50:003300,100:001a00&height=80&section=footer&text=while(ambitious)%20%7B%20keep_building()%3B%20%7D&fontSize=13&fontColor=00ff41&animation=fadeIn&fontAlignY=65)](https://github.com/srikarreddyram)
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:000000&height=100&section=footer&text=May+the+Force+be+with+you&fontSize=16&fontColor=FFE81F&animation=fadeIn&fontAlignY=65)](https://github.com/srikarreddyram)
 
 </div>
