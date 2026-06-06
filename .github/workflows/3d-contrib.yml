@@ -8,27 +8,27 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     name: Generate 3D Contribution Graph
     steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: actions/checkout@v4
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: srikarreddyram
-        with:
-          settings_json: |
-            {
-              "githubUserName": "srikarreddyram",
-              "fileName": "profile-night-green.svg",
-              "backgroundColor": "#0d1117",
-              "foregroundColor": "#003300",
-              "dataColor1": "#00ff41",
-              "dataColor2": "#39d353"
-            }
+          BACKGROUND_COLOR: "#0d1117"
+          FOREGROUND_COLOR: "#003300"
+          COLOR1: "#39d353"
+          COLOR2: "#26a641"
+          COLOR3: "#006d32"
+          COLOR4: "#0e4429"
+
       - name: Commit & Push
         run: |
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
           git add -A .
-          git commit -m "Update 3D contribution graph" || exit 0
+          git commit -m "chore: update 3D contribution graph" || exit 0
           git push
