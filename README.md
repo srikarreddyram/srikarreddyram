@@ -87,9 +87,31 @@ Presented at **WOSC 2026 (NIO Goa)**, published in **IEEE Xplore** and **Springe
 
 ## Projects
 
-| **🌊 BlueEco — Ocean Warming Ecological Impact Modeling**<br><br>Bi-LSTM and XGBoost ensemble on multi-source satellite & oceanographic data for time-series forecasting and ecological stress estimation. Scalable data pipeline with RMSE/MAE validation.<br><br>*Presented at **WOSC 2026, NIO Goa***<br><br>`Python` `Bi-LSTM` `XGBoost` `Scikit-learn` `Pandas` | **🏀 NBA Shot Quality Engine**<br><br>Scalable data engineering + ML pipeline over **15 seasons (~3M+ shots)** of NBA shot chart data. 30+ engineered spatial, temporal, and player-specific features. Gradient-boosted models for shot success probability and expected points analytics.<br><br>`Python` `SQLAlchemy` `SQLite` `XGBoost` |
-|---|---|
-| **⚽ TactiFit — Football Scouting & Analytics**<br><br>ML models for player ranking and performance prediction using engineered performance metrics. Regression and classification for data-driven scouting decisions.<br><br>`Python` `Regression` `Classification` `Scikit-learn` | **🛸 Canary-Based CI/CD Pipeline**<br><br>CI/CD pipeline with canary deployment strategy for safe, gradual feature rollouts. Automated build, test, and deploy with full rollback capability and minimal downtime.<br><br>`Docker` `CI/CD` `Python` `DevOps` |
+### 🛡️ FraudGuard — Fraud Detection & Review-Queue Optimization
+
+`Python` `XGBoost` `FastAPI` `Redis` `SQLAlchemy` `Alembic` `SQLite` `PostgreSQL` `SHAP`
+
+- Built an end-to-end Python/XGBoost fraud pipeline on 590K IEEE-CIS transactions (3.5% fraud), achieving 0.511 PR-AUC on a strictly time-split holdout after time-aware tuning (18.5% above baseline).
+- Rebuilt the cost model around review capacity after the initial threshold exceeded capacity by 12×; ranked cases by expected loss to recover an additional $77,249 (21.5%) in fraud value with the same model.
+- Cut inference latency by 50% by moving SHAP attribution off the synchronous path with fail-open degradation; added hot-swappable models and a Redis feature/velocity store for zero-downtime updates.
+- Built a versioned FastAPI service (`/v1/score`, `/health`, `/ready`) with SQLAlchemy/Alembic parity across SQLite and PostgreSQL; backtested retraining cadence ($33K/window decay cost) and audited card-type disparate impact (1.19× gap).
+
+### 🌐 SportsGateway — Distributed API Gateway & Caching Layer
+
+`Node.js` `Express` `Redis` `MongoDB` `BullMQ` `Docker` `Nginx` `k6`
+
+- Designed and built a distributed API gateway using Node.js and Express to proxy a live third-party sports data API, implementing Redis-based rate limiting and cache-aside with stale-while-revalidate to reduce upstream calls during high-traffic bursts.
+- Implemented the circuit-breaker pattern using Opossum for graceful degradation during upstream failures, with asynchronous request and analytics logging via BullMQ and MongoDB to keep response paths non-blocking.
+- Achieved horizontal scalability with multiple stateless gateway instances behind Nginx load balancing; containerized the full stack using Docker Compose and validated cache-hit rate and latency improvements under simulated live-match traffic using k6.
+
+### 🏀 Shot Vision — NBA Shot Quality & Matchup Engine
+
+`Python` `XGBoost` `SQLite` `DuckDB` `FastAPI` `React` `TypeScript`
+
+- Built a full-stack ML system on 2.1M NBA shots across 10 seasons using Python, XGBoost, SQLite/DuckDB, FastAPI, and React/TypeScript, delivering sub-200ms make-probability and shot-attainability predictions.
+- Designed point-in-time shooter and defender features with empirical-Bayes shrinkage, eliminating whole-season target leakage and improving held-out log-loss and AUC under rolling-origin backtesting.
+- Engineered 100+ features spanning matchup defense, zone coverage, shot mechanics, and leave-one-out team context; validated feature groups through ablation and trained a separate attainability model using season-to-date snapshots.
+- Added TreeSHAP explanations with league percentiles and regression tests, while preserving train/serve parity through shared feature computation and automated tests that caught production accuracy regressions.
 
 ---
 
