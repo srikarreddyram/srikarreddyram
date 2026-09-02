@@ -1,20 +1,14 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&height=220&text=RAMACHANDRA%20TEJSRIKAR%20REDDY&fontSize=32&color=0:000000,50:0a1a0a,100:000000&fontColor=39d353&animation=fadeIn&fontAlignY=45&desc=AI%20%2F%20ML%20Engineer%20·%20Software%20Development%20·%20Applied%20Machine%20Learning&descAlignY=68&descSize=13&stroke=39d353&strokeWidth=1)](https://github.com/srikarreddyram)
+[![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Srikar%20Reddy&fontSize=38&color=0:0d1117,50:161b22,100:0d1117&fontColor=39d353&animation=fadeIn&fontAlignY=45&desc=AI%20%2F%20ML%20Engineer%20·%20Data%20Science%20·%20Applied%20Machine%20Learning&descAlignY=68&descSize=15&stroke=39d353&strokeWidth=1)](https://github.com/srikarreddyram)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=13&duration=1800&pause=500&color=39d353&center=true&vCenter=true&repeat=true&width=720&lines=Mr.+Srikar...+you're+a+developer.;A+long+time+ago+in+a+galaxy+far%2C+far+away...;Research+Intern+%40+NCPOR%2C+Goa+🌊;B.Tech+Computer+Engineering+%7C+SRMIST+%2727+%7C+CGPA%3A+8.74;AWS+Certified+%7C+Oracle+Cloud+AI+Pro+%7C+AlgoExpert+DSA;Presented+%40+World+Ocean+Science+Congress+2026;Published+in+IEEE+Xplore+%26+Springer+Nature;It's+LeviOsa%2C+not+LevioSA+—+and+it's+Python%2C+not+pseudocode.;May+the+Force+be+with+your+pull+requests+⚔️)](https://github.com/srikarreddyram)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2200&pause=800&color=39d353&center=true&vCenter=true&repeat=true&width=720&lines=Research+Intern+%40+NCPOR%2C+Goa;B.Tech+Computer+Engineering+%7C+SRMIST+%2727+%7C+CGPA%3A+8.74;AWS+Certified+%7C+Oracle+Cloud+AI+Pro+%7C+AlgoExpert+DSA;Presented+%40+World+Ocean+Science+Congress+2026;Published+in+IEEE+Xplore+%26+Springer+Nature;Open+to+ML+%2F+Data+Science+%2F+SDE+roles)](https://github.com/srikarreddyram)
 
 </div>
 
 ---
 
 <div align="center">
-
-```
-  *    .  *      .       *   .    .      *    .       .    *    .
-.    *    .    *    .  *   .    .    *       .    *  .   .    .
-  .    .    *    .    .  .   *    .    .   *    .    .  *   .    *
-```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srikarreddyram/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=39d353)](https://github.com/srikarreddyram)
@@ -29,28 +23,23 @@
 
 ---
 
-## About  <sub>*[ use the force, read the file ]*</sub>
+## About
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  name          →  Ramachandra TejSrikar Reddy                       ║
-║  role          →  AI/ML Engineer · Software Development             ║
-║  degree        →  B.Tech Computer Engineering, SRMIST '27           ║
-║  cgpa          →  8.74 / 10                                         ║
-║  base          →  Chennai, India                                     ║
-║  mission       →  NCPOR, Goa — Oceanographic & Climate Research     ║
-║  stack         →  ML · Data Science · Cloud · DSA · Research        ║
-║  status        →  open to internships  ✦                            ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+I build ML pipelines, data engineering systems, and applied research that solves real-world problems. Currently a **Research Intern at NCPOR, Goa**, working on oceanographic and climate datasets.
 
-I build ML pipelines, data engineering systems, and applied research that solves real-world problems. Currently a **Research Intern at NCPOR, Goa** working on oceanographic and climate datasets.
+Presented at **WOSC 2026 (NIO Goa)**, published in **IEEE Xplore** and **Springer Nature**, and hold **3 AWS certifications** plus an Oracle Cloud AI Professional credential.
 
-Presented at **WOSC 2026 (NIO Goa)**, published in **IEEE Xplore** and **Springer Nature**, and hold **3 AWS certifications** + Oracle Cloud AI Professional credentials.
+| | |
+|---|---|
+| 🎓 **Degree** | B.Tech Computer Engineering, SRMIST '27 (CGPA 8.74/10) |
+| 📍 **Based in** | Chennai, India |
+| 🔬 **Currently** | Research Intern, NCPOR — Oceanographic & Climate Research |
+| 🧠 **Focus** | Machine Learning · Data Science · Cloud · DSA · Research |
+| ✦ **Status** | Open to internships |
 
 ---
 
-## Tech Stack  <sub>*[ your weapons are your tools ]*</sub>
+## Tech Stack
 
 **Languages**
 
@@ -96,7 +85,7 @@ Presented at **WOSC 2026 (NIO Goa)**, published in **IEEE Xplore** and **Springe
 
 ---
 
-## Projects  <sub>*[ impressive, most impressive ]*</sub>
+## Projects
 
 | **🌊 BlueEco — Ocean Warming Ecological Impact Modeling**<br><br>Bi-LSTM and XGBoost ensemble on multi-source satellite & oceanographic data for time-series forecasting and ecological stress estimation. Scalable data pipeline with RMSE/MAE validation.<br><br>*Presented at **WOSC 2026, NIO Goa***<br><br>`Python` `Bi-LSTM` `XGBoost` `Scikit-learn` `Pandas` | **🏀 NBA Shot Quality Engine**<br><br>Scalable data engineering + ML pipeline over **15 seasons (~3M+ shots)** of NBA shot chart data. 30+ engineered spatial, temporal, and player-specific features. Gradient-boosted models for shot success probability and expected points analytics.<br><br>`Python` `SQLAlchemy` `SQLite` `XGBoost` |
 |---|---|
@@ -104,22 +93,15 @@ Presented at **WOSC 2026 (NIO Goa)**, published in **IEEE Xplore** and **Springe
 
 ---
 
-## Research & Publications  <sub>*[ these are not the papers you're looking for — wait, they are ]*</sub>
+## Research & Publications
 
-```
-  📡  BlueEco: Ocean Warming Ecological Impact Modeling
-      ↳ Presented at World Ocean Science Congress (WOSC 2026), NIO Goa
-
-  📡  ML-Based Item Recommendation for Flipkart Using SVD
-      ↳ Published in IEEE Xplore (NF-CAMS 2025)
-
-  📡  Optimizing Network Performance in LTE using Fuzzy Logic & MFO
-      ↳ Accepted in Soft Computing (Springer Nature)
-```
+- **BlueEco: Ocean Warming Ecological Impact Modeling** — Presented at World Ocean Science Congress (WOSC 2026), NIO Goa
+- **ML-Based Item Recommendation for Flipkart Using SVD** — Published in IEEE Xplore (NF-CAMS 2025)
+- **Optimizing Network Performance in LTE using Fuzzy Logic & MFO** — Accepted in Soft Computing (Springer Nature)
 
 ---
 
-## Certifications  <sub>*[ certified, you are — proud, the council is ]*</sub>
+## Certifications
 
 | # | Credential | Issuer | Year |
 |:---:|---|---|:---:|
@@ -131,35 +113,27 @@ Presented at **WOSC 2026 (NIO Goa)**, published in **IEEE Xplore** and **Springe
 
 ---
 
-## Experience  <sub>*[ the war is not over ]*</sub>
+## Experience
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  Role     →  Research Intern                                         ║
-║  Station  →  NCPOR (National Centre for Polar & Ocean Research), Goa ║
-║  Period   →  Apr 2025 – Present                                      ║
-║  Mission  →  Oceanographic & climate datasets for environmental      ║
-║             modeling and analysis                                    ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+**Research Intern** — NCPOR (National Centre for Polar & Ocean Research), Goa
+*Apr 2025 – Present*
+Working with oceanographic and climate datasets for environmental modeling and analysis.
 
 ---
 
-## LeetCode  <sub>*[ do or do not, there is no try ]*</sub>
+## LeetCode
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/srikar_reddy_?theme=dark&font=Orbitron&ext=heatmap&border=0&background=0d1117)](https://leetcode.com/u/srikar_reddy_/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/srikar_reddy_?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&background=0d1117)](https://leetcode.com/u/srikar_reddy_/)
 
 ---
 
-## Contribution Graph  <sub>*[ i find your lack of commits disturbing ]*</sub>
-
-> *"It's not about how many commits you make — it's about the quality of the spell."* 🧙
+## Contribution Graph
 
 [![GitHub Contribution Snake](https://raw.githubusercontent.com/srikarreddyram/srikarreddyram/output/github-contribution-grid-snake-dark.svg)](https://github.com/srikarreddyram)
 
 ---
 
-## GitHub Stats  <sub>*[ the force is strong with this one ]*</sub>
+## GitHub Stats
 
 <div align="center">
 
@@ -174,45 +148,34 @@ Presented at **WOSC 2026 (NIO Goa)**, published in **IEEE Xplore** and **Springe
 
 ---
 
-## 3D Contribution Globe  <sub>*[ a map of the galaxy ]*</sub>
+## 3D Contribution Globe
 
 [![3D contribution graph](https://raw.githubusercontent.com/srikarreddyram/srikarreddyram/main/profile-3d-contrib/profile-night-green.svg)](https://github.com/srikarreddyram)
 
 ---
 
-## Trophies  <sub>*[ the chosen one collects them all ]*</sub>
+## Trophies
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=srikarreddyram&theme=darkhub&no-frame=true&column=4&margin-w=8)](https://github.com/srikarreddyram)
 
 ---
 
-## Currently Learning  <sub>*[ always in motion, the future is ]*</sub>
+## Currently Learning
 
-```
-  Large Language Models & RAG          ████████░░  78%
-  MLOps · Docker · CI/CD               ███████░░░  68%
-  Cloud Platforms — AWS / Oracle       ████████░░  80%
-  Advanced Deep Learning (Bi-LSTM)     ███████░░░  70%
-  System Design & Architecture         ██████░░░░  55%
-  Competitive Programming (DSA)        ████████░░  75%
-  Computer Vision                      █████░░░░░  50%
-  Data Engineering & Pipelines         ███████░░░  65%
-  Statistical Modelling & Research     ████████░░  78%
-  Graph Neural Networks                ████░░░░░░  38%
-```
+- Large Language Models & RAG
+- MLOps · Docker · CI/CD
+- Cloud Platforms — AWS / Oracle
+- Advanced Deep Learning (Bi-LSTM)
+- System Design & Architecture
+- Computer Vision
+- Graph Neural Networks
 
 ---
 
 <div align="center">
 
-```
-01010011 01010010 01001001 01001011 01000001 01010010
-```
+**Open to internships — ML · SDE · Data Science · Research · Cloud**
 
-`[ open to internships — ML · SDE · Data Science · Research · Cloud ]`
-
-*"It does not do to dwell on dreams and forget to ship."* 🧙&nbsp;&nbsp;**May the Force be with your pull requests.** ⚔️
-
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a1a0a,100:000000&height=100&section=footer&text=Mischief+Managed.&fontSize=18&fontColor=39d353&animation=fadeIn&fontAlignY=65)](https://github.com/srikarreddyram)
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=90&section=footer)](https://github.com/srikarreddyram)
 
 </div>
