@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/srikarreddyram">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=900&color=E3C16F&center=true&vCenter=true&width=620&height=44&lines=I+solemnly+swear+I+am+up+to+no+good;Research+Intern+at+NCPOR%2C+Goa;B.Tech+Computer+Science+%C2%B7+SRMIST+%C2%B7+2027;AWS+and+Oracle+certified;Open+to+SWE%2C+ML+and+data+roles" alt="I solemnly swear I am up to no good · Research Intern at NCPOR, Goa · B.Tech Computer Science, SRMIST, 2027 · AWS and Oracle certified · Open to SWE, ML and data roles">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=900&color=E3C16F&center=true&vCenter=true&width=620&height=44&lines=Computer+Science+at+SRMIST;Open+to+SDE%2C+ML+and+Backend+roles" alt="Computer Science at SRMIST · Open to SDE, ML and Backend roles">
   </a>
 </p>
 
