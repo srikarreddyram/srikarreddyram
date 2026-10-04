@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/srikarreddyram">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=900&color=E3C16F&center=true&vCenter=true&width=620&height=44&lines=Research+Intern+at+NCPOR%2C+Goa;B.Tech+Computer+Science+%C2%B7+SRMIST+%C2%B7+2027;AWS+and+Oracle+certified;Open+to+SWE%2C+ML+and+data+roles" alt="Research Intern at NCPOR, Goa · B.Tech Computer Science, SRMIST, 2027 · AWS and Oracle certified · Open to SWE, ML and data roles">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=900&color=E3C16F&center=true&vCenter=true&width=620&height=44&lines=I+solemnly+swear+I+am+up+to+no+good;Research+Intern+at+NCPOR%2C+Goa;B.Tech+Computer+Science+%C2%B7+SRMIST+%C2%B7+2027;AWS+and+Oracle+certified;Open+to+SWE%2C+ML+and+data+roles" alt="I solemnly swear I am up to no good · Research Intern at NCPOR, Goa · B.Tech Computer Science, SRMIST, 2027 · AWS and Oracle certified · Open to SWE, ML and data roles">
   </a>
 </p>
 
@@ -24,10 +24,10 @@
 <h3 align="center">Featured work</h3>
 
 <p align="center">
-  <a href="https://github.com/srikarreddyram/FinSight"><img src="./images/projects/finsight.svg" width="49%" alt="FinSight: citation-first RAG copilot over SEC filings"></a>
-  <a href="https://github.com/srikarreddyram/fraud-guard"><img src="./images/projects/fraudguard.svg" width="49%" alt="FraudGuard: fraud scoring fitted to analyst review capacity"></a>
-  <a href="https://github.com/srikarreddyram/SportsGateway"><img src="./images/projects/sportsgateway.svg" width="49%" alt="SportsGateway: API gateway with caching and circuit breakers"></a>
-  <a href="https://github.com/srikarreddyram/Shot-Stat"><img src="./images/projects/shotvision.svg" width="49%" alt="Shot Vision: NBA shot-quality models with plain-language reasons"></a>
+  <a href="https://github.com/srikarreddyram/FinSight"><img src="./images/projects/finsight.svg" width="49%" alt="FinSight: ask a 10-K anything, get the exact page"></a>
+  <a href="https://github.com/srikarreddyram/fraud-guard"><img src="./images/projects/fraudguard.svg" width="49%" alt="FraudGuard: catch the frauds that cost the most"></a>
+  <a href="https://github.com/srikarreddyram/SportsGateway"><img src="./images/projects/sportsgateway.svg" width="49%" alt="SportsGateway: stays live when the source goes dark"></a>
+  <a href="https://github.com/srikarreddyram/Shot-Stat"><img src="./images/projects/shotvision.svg" width="49%" alt="Shot Vision: which shot should you take, and why?"></a>
 </p>
 
 <p align="center"><a href="https://github.com/srikarreddyram?tab=repositories">More projects →</a></p>
@@ -51,3 +51,6 @@
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=68F789E6FB1B545B93F366B25E5642F75B2B9CB2969794B3023E5B584623BB88"><img src="https://img.shields.io/badge/Oracle-OCI_Generative_AI_Professional-C74634?style=flat-square" alt="OCI 2025 Certified Generative AI Professional"></a>
 </p>
 
+<br>
+
+<p align="center"><sub><i>Mischief managed.</i></sub></p>
