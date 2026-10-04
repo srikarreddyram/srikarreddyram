@@ -117,4 +117,6 @@
 
 <br>
 
-<p align="center"><sub><i>Mischief managed.</i></sub></p>
+<p align="center">
+  <img src="./images/footer.svg" width="100%" alt="Mischief managed. Thanks for stopping by.">
+</p>

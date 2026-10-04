@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="180" viewBox="0 0 880 180" role="img" aria-label="Mischief managed.">
+<title>Mischief managed.</title>
+<defs>
+  <linearGradient id="ink" gradientUnits="userSpaceOnUse" x1="300" y1="0" x2="580" y2="0">
+    <stop offset="0" stop-color="#E8C766"/><stop offset="1" stop-color="#E06C75"/>
+  </linearGradient>
+  <radialGradient id="ball" cx="0.35" cy="0.3" r="0.8">
+    <stop offset="0" stop-color="#FFF1B0"/><stop offset="0.5" stop-color="#E8C766"/><stop offset="1" stop-color="#A9791F"/>
+  </radialGradient>
+  <clipPath id="c"><rect x="0.5" y="0.5" width="879" height="179" rx="14"/></clipPath>
+</defs>
+<style>
+  .t { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+  .ink { font-family: Georgia, 'Times New Roman', serif; font-style: italic; stroke: url(#ink); stroke-width: .8;
+          stroke-dasharray: 900; animation: write 3.2s ease-out .3s backwards; }
+  .sub { animation: fade 1s ease-out 2.8s backwards; }
+  .step { fill: #E8C766; opacity: 0; animation: walk 10s linear infinite; }
+  .wing { fill: #E9E2C4; opacity: .75; transform-box: fill-box; animation: flap .12s ease-in-out infinite alternate; }
+  .wl { transform-origin: right center; }
+  .wr { transform-origin: left center; }
+  @keyframes write { 0% { stroke-dashoffset: 900; fill-opacity: 0; } 70% { stroke-dashoffset: 0; fill-opacity: 0; } 100% { stroke-dashoffset: 0; fill-opacity: 1; } }
+  @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+  @keyframes walk { 0% { opacity: 0; } 2% { opacity: .8; } 22% { opacity: .8; } 40% { opacity: 0; } 100% { opacity: 0; } }
+  @keyframes flap { from { transform: scaleY(1); } to { transform: scaleY(.2); } }
+  @media (prefers-reduced-motion: reduce) {
+    .ink, .sub, .wing { animation: none; }
+    .step { animation: none; opacity: .35; }
+    .snitch { display: none; }
+  }
+</style>
+<g clip-path="url(#c)">
+  <rect width="880" height="180" fill="#0d1117"/>
+  <g class="step" style="animation-delay:0.00s" transform="translate(44.5 146.3) rotate(95.9)"><ellipse cx="0" cy="-3" rx="2.9" ry="4.6"/><ellipse cx="0" cy="4.6" rx="2.2" ry="2.6"/></g>
+  <g class="step" style="animation-delay:0.32s" transform="translate(77.7 159.1) rotate(93.2)"><ellipse cx="0" cy="-3" rx="2.9" ry="4.6"/><ellipse cx="0" cy="4.6" rx="2.2" ry="2.6"/></g>
+  <g class="step" style="animation-delay:0.64s" transform="translate(112.0 150.0) rotate(89.8)"><ellipse cx="0" cy="-3" rx="2.9" ry="4.6"/><ellipse cx="0" cy="4.6" rx="2.2" ry="2.6"/></g>
+  <g class="step" style="animation-delay:0.96s" transform="translate(146.3 158.8) rotate(86.4)"><ellipse cx="0" cy="-3" rx="2.9" ry="4.6"/><ellipse cx="0" cy="4.6" rx="2.2" ry="2.6"/></g>
+  <g class="step" style="animation-delay:1.28s" transform="translate(179.5 145.9) rotate(83.8)"><ellipse cx="0" cy="-3" rx="2.9" ry="4.6"/><ellipse cx="0" cy="4.6" rx="2.2" ry="2.6"/></g>
+  <g class="step" style="animation-delay:1.60s" transform="translate(214.6 151.7) rotate(82.7)"><ellipse cx="0" cy="-3" rx="2.9" ry="4.6"/><ellipse cx="0" cy="4.6" rx="2.2" ry="2.6"/></g>
+  <g class="step" style="animation-delay:1.92s" transform="translate(247.4 137.5) rotate(83.2)"><ellipse cx="0" cy="-3" rx="2.9" ry="4.6"/><ellipse cx="0" cy="4.6" rx="2.2" ry="2.6"/></g>
+  <g class="step" style="animation-delay:2.24s" transform="translate(282.4 144.0) rotate(85.4)"><ellipse cx="0" cy="-3" rx="2.9" ry="4.6"/><ellipse cx="0" cy="4.6" rx="2.2" ry="2.6"/></g>
+  <g class="step" style="animation-delay:2.56s" transform="translate(315.9 132.2) rotate(88.6)"><ellipse cx="0" cy="-3" rx="2.9" ry="4.6"/><ellipse cx="0" cy="4.6" rx="2.2" ry="2.6"/></g>
+  <g class="step" style="animation-delay:2.88s" transform="translate(349.8 142.4) rotate(92.1)"><ellipse cx="0" cy="-3" rx="2.9" ry="4.6"/><ellipse cx="0" cy="4.6" rx="2.2" ry="2.6"/></g>
+  <g class="step" style="animation-delay:3.20s" transform="translate(384.4 134.6) rotate(95.1)"><ellipse cx="0" cy="-3" rx="2.9" ry="4.6"/><ellipse cx="0" cy="4.6" rx="2.2" ry="2.6"/></g>
+  <g class="step" style="animation-delay:3.52s" transform="translate(417.4 148.2) rotate(97.0)"><ellipse cx="0" cy="-3" rx="2.9" ry="4.6"/><ellipse cx="0" cy="4.6" rx="2.2" ry="2.6"/></g>
+  <g class="step" style="animation-delay:3.84s" transform="translate(452.6 142.6) rotate(97.2)"><ellipse cx="0" cy="-3" rx="2.9" ry="4.6"/><ellipse cx="0" cy="4.6" rx="2.2" ry="2.6"/></g>
+  <g class="step" style="animation-delay:4.16s" transform="translate(485.5 156.5) rotate(95.8)"><ellipse cx="0" cy="-3" rx="2.9" ry="4.6"/><ellipse cx="0" cy="4.6" rx="2.2" ry="2.6"/></g>
+  <g class="step" style="animation-delay:4.48s" transform="translate(520.3 149.2) rotate(93.0)"><ellipse cx="0" cy="-3" rx="2.9" ry="4.6"/><ellipse cx="0" cy="4.6" rx="2.2" ry="2.6"/></g>
+  <g class="step" style="animation-delay:4.80s" transform="translate(554.0 160.0) rotate(89.6)"><ellipse cx="0" cy="-3" rx="2.9" ry="4.6"/><ellipse cx="0" cy="4.6" rx="2.2" ry="2.6"/></g>
+  <g class="step" style="animation-delay:5.12s" transform="translate(587.7 148.7) rotate(86.2)"><ellipse cx="0" cy="-3" rx="2.9" ry="4.6"/><ellipse cx="0" cy="4.6" rx="2.2" ry="2.6"/></g>
+  <g class="step" style="animation-delay:5.44s" transform="translate(622.5 155.6) rotate(83.7)"><ellipse cx="0" cy="-3" rx="2.9" ry="4.6"/><ellipse cx="0" cy="4.6" rx="2.2" ry="2.6"/></g>
+  <g class="step" style="animation-delay:5.76s" transform="translate(655.4 141.5) rotate(82.7)"><ellipse cx="0" cy="-3" rx="2.9" ry="4.6"/><ellipse cx="0" cy="4.6" rx="2.2" ry="2.6"/></g>
+  <g class="step" style="animation-delay:6.08s" transform="translate(690.6 147.2) rotate(83.3)"><ellipse cx="0" cy="-3" rx="2.9" ry="4.6"/><ellipse cx="0" cy="4.6" rx="2.2" ry="2.6"/></g>
+  <g class="step" style="animation-delay:6.40s" transform="translate(723.6 133.9) rotate(85.5)"><ellipse cx="0" cy="-3" rx="2.9" ry="4.6"/><ellipse cx="0" cy="4.6" rx="2.2" ry="2.6"/></g>
+  <g class="step" style="animation-delay:6.72s" transform="translate(758.1 142.1) rotate(88.8)"><ellipse cx="0" cy="-3" rx="2.9" ry="4.6"/><ellipse cx="0" cy="4.6" rx="2.2" ry="2.6"/></g>
+  <g class="step" style="animation-delay:7.04s" transform="translate(792.2 132.5) rotate(92.3)"><ellipse cx="0" cy="-3" rx="2.9" ry="4.6"/><ellipse cx="0" cy="4.6" rx="2.2" ry="2.6"/></g>
+  <g class="step" style="animation-delay:7.36s" transform="translate(825.5 144.7) rotate(95.3)"><ellipse cx="0" cy="-3" rx="2.9" ry="4.6"/><ellipse cx="0" cy="4.6" rx="2.2" ry="2.6"/></g>
+  <g class="snitch">
+    <g>
+      <g transform="rotate(-18 -9 -2)"><ellipse class="wing wl" cx="-9" cy="-2" rx="9" ry="3"/></g>
+      <g transform="rotate(18 9 -2)"><ellipse class="wing wr" cx="9" cy="-2" rx="9" ry="3"/></g>
+      <circle r="5.2" fill="url(#ball)"/>
+    </g>
+    <animateMotion dur="10s" repeatCount="indefinite" calcMode="linear"
+      keyTimes="0;0.55;0.75;1" keyPoints="0;0;1;1"
+      path="M -40 40 C 160 0, 300 110, 460 46 S 760 20, 920 60"/>
+  </g>
+</g>
+<rect x="0.5" y="0.5" width="879" height="179" rx="14" fill="none" stroke="#30363d"/>
+<text class="ink" x="440.0" y="82" font-size="40" text-anchor="middle" fill="url(#ink)">Mischief managed.</text>
+<text class="t sub" x="440.0" y="110" font-size="13" text-anchor="middle" fill="#8b949e">Thanks for stopping by.</text>
+</svg>
