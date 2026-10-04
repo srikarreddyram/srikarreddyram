@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/srikarreddyram">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=900&color=E3C16F&center=true&vCenter=true&width=620&height=44&lines=Computer+Science+at+SRMIST;Open+to+SDE%2C+ML+and+Backend+roles" alt="Computer Science at SRMIST · Open to SDE, ML and Backend roles">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=900&color=E3C16F&center=true&vCenter=true&width=620&height=44&lines=4th-year+Computer+Science+student+at+SRMIST;Open+to+SDE%2C+ML+and+Backend+roles" alt="4th-year Computer Science student at SRMIST · Open to SDE, ML and Backend roles">
   </a>
 </p>
 
@@ -23,12 +23,64 @@
 
 <h3 align="center">Featured work</h3>
 
-<p align="center">
-  <a href="https://github.com/srikarreddyram/FinSight"><img src="./images/projects/finsight.svg" width="49%" alt="FinSight: ask a 10-K anything, get the exact page"></a>
-  <a href="https://github.com/srikarreddyram/fraud-guard"><img src="./images/projects/fraudguard.svg" width="49%" alt="FraudGuard: catch the frauds that cost the most"></a>
-  <a href="https://github.com/srikarreddyram/SportsGateway"><img src="./images/projects/sportsgateway.svg" width="49%" alt="SportsGateway: stays live when the source goes dark"></a>
-  <a href="https://github.com/srikarreddyram/Shot-Stat"><img src="./images/projects/shotvision.svg" width="49%" alt="Shot Vision: which shot should you take, and why?"></a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/srikarreddyram/FinSight"><img src="./images/projects/finsight.svg" width="100%" alt="FinSight: ask a 10-K anything, get the exact page"></a>
+      <details>
+        <summary><kbd>🪄 Revelio</kbd></summary>
+        <br>
+        <ul>
+        <li>Answers questions over 10-K and 10-Q filings. Every answer cites a page you can click through to, or says <i>“Not found in the filings.”</i></li>
+        <li>Hybrid search (BM25 + dense) with a cross-encoder reranker. The LLM never writes a number: Python checks each figure against its cited page.</li>
+        <li>On FinanceBench: recall@10 up from <b>41% to 81%</b>, <b>96%</b> citation precision, <b>100%</b> correct refusals.</li>
+        </ul>
+        <p><a href="https://github.com/srikarreddyram/FinSight">View the repo →</a></p>
+      </details>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/srikarreddyram/fraud-guard"><img src="./images/projects/fraudguard.svg" width="100%" alt="FraudGuard: catch the frauds that cost the most"></a>
+      <details>
+        <summary><kbd>🪄 Revelio</kbd></summary>
+        <br>
+        <ul>
+        <li>Built for the <b>Razorpay AI Buildathon 2026</b>: XGBoost on 590K transactions, <b>0.511 PR-AUC</b> on a time-split holdout (about 15× random).</li>
+        <li>The alert threshold comes from how many cases analysts can review, and ranking by expected loss recovered <b>$77K (21.5%) more</b> from the same model.</li>
+        <li>Served as a Dockerized FastAPI service with Redis velocity features, backed by tests and CI.</li>
+        </ul>
+        <p><a href="https://github.com/srikarreddyram/fraud-guard">View the repo →</a></p>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/srikarreddyram/SportsGateway"><img src="./images/projects/sportsgateway.svg" width="100%" alt="SportsGateway: stays live when the source goes dark"></a>
+      <details>
+        <summary><kbd>🪄 Revelio</kbd></summary>
+        <br>
+        <ul>
+        <li>Node.js gateway over a live sports API with Redis rate limiting, stale-while-revalidate caching and request coalescing.</li>
+        <li>Circuit breakers and a fallback cache kept <b>zero client errors</b> through a full provider outage.</li>
+        <li>Under k6 load: <b>98.2% fewer</b> upstream calls, 99.8% cache hits, and <b>2,746 → 7,249 req/s</b> going from one to three replicas.</li>
+        </ul>
+        <p><a href="https://github.com/srikarreddyram/SportsGateway">View the repo →</a></p>
+      </details>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/srikarreddyram/Shot-Stat"><img src="./images/projects/shotvision.svg" width="100%" alt="Shot Vision: which shot should you take, and why?"></a>
+      <details>
+        <summary><kbd>🪄 Revelio</kbd></summary>
+        <br>
+        <ul>
+        <li>Two XGBoost models on <b>2.1M NBA shots</b>: will this shot go in, and can this player realistically get it.</li>
+        <li>Pick an attacker, defender and coverage to get a heat map and ranked shots, each explained in plain language from TreeSHAP.</li>
+        <li>Found and fixed the same target leak twice; features are point-in-time and shared by training and serving, enforced by a parity test.</li>
+        </ul>
+        <p><a href="https://github.com/srikarreddyram/Shot-Stat">View the repo →</a></p>
+      </details>
+    </td>
+  </tr>
+</table>
 
 <p align="center"><a href="https://github.com/srikarreddyram?tab=repositories">More projects →</a></p>
 
