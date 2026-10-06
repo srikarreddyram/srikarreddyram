@@ -2,6 +2,11 @@
   <img src="./images/banner.png" alt="Srikar Reddy, ML and Software Engineer" width="100%">
 </a>
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=srikarreddyram&label=Profile%20views&color=c9a046&style=flat-square" alt="Profile views">
+  <a href="https://github.com/srikarreddyram?tab=followers"><img src="https://img.shields.io/github/followers/srikarreddyram?label=Followers&style=flat-square&color=c9a046" alt="Followers"></a>
+</p>
+
 <p align="center">
   <a href="https://github.com/srikarreddyram">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=900&color=E3C16F&center=true&vCenter=true&width=620&height=44&lines=4th-year+Computer+Science+student+at+SRMIST;Open+to+SDE%2C+ML+and+Backend+roles" alt="4th-year Computer Science student at SRMIST · Open to SDE, ML and Backend roles">
